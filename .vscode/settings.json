@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./Number plate/env/Lib/site-packages/setuptools/_",
+        "./Number plate/env/Lib/site-packages/setuptools/_",
+        "./Number plate/env/Lib/site-packages/setuptools/_",
+        "./Number plate/env/Lib/site-packages/setuptools/_"
+    ]
+}
